@@ -1,113 +1,1253 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Albania",-= Albania =-
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9356
-#EXTINF:0 tvg-id="ext" group-title="Albania",Report TV
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19589
-#EXTINF:0 tvg-id="ABCNews.al" group-title="Albania",ABC News
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19576
-#EXTINF:0 tvg-id="ext" group-title="Albania",Alb Action HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19569
-#EXTINF:0 tvg-id="ext" group-title="Albania",Alb Folk
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9082
-#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Albania",Fox Movies
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9286
-#EXTINF:0 tvg-id="ext" group-title="Albania",T7
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9175
-#EXTINF:0 tvg-id="musicAL.al" group-title="Albania",Music
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9072
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH 3 HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19590
-#EXTINF:0 tvg-id="RrokumTV.al" group-title="Albania",Rrokum TV
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19584
-#EXTINF:0 tvg-id="PeaceTV.al" group-title="Albania",Peace TV
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19562
-#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Albania",Klan TV
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/11085
-#EXTINF:0 tvg-id="KlanKosova.al" group-title="Albania",Klan Kosova
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/11091
-#EXTINF:0 tvg-id="ext" group-title="Albania",Klan Plus
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/11084
-#EXTINF:0 tvg-id="ext" group-title="Albania",Kujtesa Sport 1 HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19595
-#EXTINF:0 tvg-id="ext" group-title="Albania",Kujtesa Sport 2 HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19596
-#EXTINF:0 tvg-id="ext" group-title="Albania",Kujtesa Sport 4 HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19598
-#EXTINF:0 tvg-id="KTV.al" group-title="Albania",KTV
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/11093
-#EXTINF:0 tvg-id="Living.al" group-title="Albania",Living HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19580
-#EXTINF:0 tvg-id="ext" group-title="Albania",Mekke Live HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19581
-#EXTINF:0 tvg-id="ext" group-title="Albania",Top Estrada TV HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9110
-#EXTINF:0 tvg-id="MyMusic.al" group-title="Albania",My Music
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9071
-#EXTINF:0 tvg-id="Muse.al" group-title="Albania",Muse
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9309
-#EXTINF:0 tvg-id="News24.al" group-title="Albania",News 24
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19583
-#EXTINF:0 tvg-id="OraNews.al" group-title="Albania",Ora News
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19561
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTV Islam
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19626
-#EXTINF:0 tvg-id="RTV21.al" group-title="Albania",RTV21
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/11097
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTV21 Junior
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19575
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTV21 Maqedonia AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/11095
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTV21 Mix AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/11096
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTV21 Popullore AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9073
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH 2 HD AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19591
-#EXTINF:0 tvg-id="RTK.al" group-title="Albania",RTK 1
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/11102
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTK 2
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/11101
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTK 3 HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/11100
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTK 4
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/11099
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH Sport
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19593
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH Muzike
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19592
-#EXTINF:0 tvg-id="TipTv.al" group-title="Albania",Tip TV
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9340
-#EXTINF:0 tvg-id="TopChannelHD.al" group-title="Albania",Top Channel
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/11088
-#EXTINF:0 tvg-id="ext" group-title="Albania",Tirana TV AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19587
-#EXTINF:0 tvg-id="ext" group-title="Albania",Tring 3+ HD AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19573
-#EXTINF:0 tvg-id="TS2HD.al" group-title="Albania",Tring Sport 2 HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/15468
-#EXTINF:0 tvg-id="TS3HD.al" group-title="Albania",Tring Sport 3 HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/15467
-#EXTINF:0 tvg-id="TS4HD.al" group-title="Albania",Tring Sport 4 HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/15466
-#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Albania",Tring Sport News AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/15465
-#EXTINF:0 tvg-id="ext" group-title="Albania",Turbo Channel AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19765
-#EXTINF:0 tvg-id="ext" group-title="Albania",TV Mitrovica AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19582
-#EXTINF:0 tvg-id="ext" group-title="Albania",TV Opoja HD AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19574
-#EXTINF:0 tvg-id="ext" group-title="Albania",TV Koha AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19578
-#EXTINF:0 tvg-id="ext" group-title="Albania",Syri TV AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19761
-#EXTINF:0 tvg-id="T.al" group-title="Albania",T HD AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19762
-#EXTINF:0 tvg-id="TopNews.al" group-title="Albania",Top News AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19629
-#EXTINF:0 tvg-id="ONTV.al" group-title="Albania",ON TV AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19758
-#EXTINF:0 tvg-id="STVFolk.al" group-title="Albania",STV Folk AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9062
-#EXTINF:0 tvg-id="ext" group-title="Albania",Sofia TV AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19752
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| ISLAM .",##### |ALBA| ISLAM .#####
+http://venomtt.com:8000/kdcxxD1U/543545/191661
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| ISLAM .",|ALBA| ISLAM CHANNEL 1 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191660
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| ISLAM .",|ALBA| ISLAM CHANNEL 2 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191659
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| ISLAM .",|ALBA| ISLAM CHANNEL 3 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191658
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| ISLAM .",|ALBA| RTV ISLAM.
+http://venomtt.com:8000/kdcxxD1U/543545/191657
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| ISLAM .",|ALBA| RTV PENDIMI TV.
+http://venomtt.com:8000/kdcxxD1U/543545/191656
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| ISLAM .",|ALBA| PEACE TV.
+http://venomtt.com:8000/kdcxxD1U/543545/191655
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| ISLAM .",|ALBA| KANAL 10.
+http://venomtt.com:8000/kdcxxD1U/543545/191654
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| ISLAM .",|ALBA| RTSH SHKOLLE.
+http://venomtt.com:8000/kdcxxD1U/543545/191653
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| ART MOTION SPORT.",##### |ALBA| ART MOTION SPORT. #####
+http://venomtt.com:8000/kdcxxD1U/543545/191652
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| ART MOTION SPORT.",|ALBA| ART SPORT 1 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191651
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| ART MOTION SPORT.",|ALBA| ART SPORT 2 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191650
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| ART MOTION SPORT.",|ALBA| ART SPORT 3 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191649
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA SPORT .",##### |ALBA| KUJTESA SPORT .#####
+http://venomtt.com:8000/kdcxxD1U/543545/191648
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA SPORT .",|ALBA| K SPORT 1 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191647
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA SPORT .",|ALBA| K SPORT 2 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191646
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA SPORT .",|ALBA| K SPORT 3 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191645
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA SPORT .",|ALBA| K SPORT 4 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191644
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA SPORT .",|ALBA| K SPORT 5 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191643
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| SUPER SPORTS.",##### |ALBA| SUPER SPORTS. #####
+http://venomtt.com:8000/kdcxxD1U/543545/191642
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| SUPER SPORTS.",|ALBA| SUPER SPORT 1 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191641
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| SUPER SPORTS.",|ALBA| SUPER SPORT 1 4K.
+http://venomtt.com:8000/kdcxxD1U/543545/191640
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| SUPER SPORTS.",|ALBA| SUPER SPORT 2 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191639
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| SUPER SPORTS.",|ALBA| SUPER SPORT 2 4K..
+http://venomtt.com:8000/kdcxxD1U/543545/191638
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| SUPER SPORTS.",|ALBA| SUPER SPORT 3 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191637
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| SUPER SPORTS.",|ALBA| SUPER SPORT 3 4K.
+http://venomtt.com:8000/kdcxxD1U/543545/191636
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| SUPER SPORTS.",|ALBA| SUPER SPORT 4 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191635
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| SUPER SPORTS.",|ALBA| SUPER SPORT 4 4K. (ONLY MATCH TIME)
+http://venomtt.com:8000/kdcxxD1U/543545/191634
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| SUPER SPORTS.",|ALBA| SUPER SPORT 5 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191633
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| SUPER SPORTS.",|ALBA| SUPER SPORT 5 4K.
+http://venomtt.com:8000/kdcxxD1U/543545/191632
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| SUPER SPORTS.",|ALBA| SUPER SPORT 6 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191631
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| SUPER SPORTS.",|ALBA| SUPER SPORT 6 4K.
+http://venomtt.com:8000/kdcxxD1U/543545/191630
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| SUPER SPORTS.",|ALBA| SUPER SPORT 7 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191629
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| SUPER SPORTS.",|ALBA| SUPER SPORT 7 4K.
+http://venomtt.com:8000/kdcxxD1U/543545/191628
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| TRING SPORTS.",##### |ALBA| TRING SPORTS. #####
+http://venomtt.com:8000/kdcxxD1U/543545/191627
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| TRING SPORTS.",|ALBA| TRING SPORT NEWS.
+http://venomtt.com:8000/kdcxxD1U/543545/191626
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| TRING SPORTS.",|ALBA| TRING SPORT NEWS HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191625
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| TRING SPORTS.",|ALBA| TRING SPORT 1 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191624
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| TRING SPORTS.",|ALBA| TRING SPORT 2 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191623
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| TRING SPORTS.",|ALBA| TRING SPORT 3 HD. (ONLY MATCH TIME)
+http://venomtt.com:8000/kdcxxD1U/543545/191622
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| TRING SPORTS.",|ALBA| TRING SPORT 4 HD. (ONLY MATCH TIME)
+http://venomtt.com:8000/kdcxxD1U/543545/191621
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| MUSIC .",##### |ALBA| MUSIC .#####
+http://venomtt.com:8000/kdcxxD1U/543545/191620
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| MUSIC .",|ALBA| MY MUSIC HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191619
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| MUSIC .",|ALBA| Q FOLK HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191618
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| MUSIC .",|ALBA| Q QIFTELI HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191617
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| MUSIC .",|ALBA| TV PLISI QIFTELI HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191616
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| MUSIC .",|ALBA| RTV21 POPULLORE.
+http://venomtt.com:8000/kdcxxD1U/543545/191615
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| MUSIC .",|ALBA| Q JETA HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191614
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| MUSIC .",|ALBA| SYRI BLU MUSIC HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191613
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| MUSIC .",|ALBA| TV OPOJA HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191612
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| MUSIC .",|ALBA| ZICO TV.
+http://venomtt.com:8000/kdcxxD1U/543545/191611
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| MUSIC .",|ALBA| A-MOL TV.
+http://venomtt.com:8000/kdcxxD1U/543545/191610
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| MUSIC .",|ALBA| TV PLISI HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191609
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| MUSIC .",|ALBA| TOP ESTRADA MUSIC HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191608
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| MUSIC .",|ALBA| ALBA.
+http://venomtt.com:8000/kdcxxD1U/543545/191607
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| MUSIC .",|ALBA| TV ZJARR.
+http://venomtt.com:8000/kdcxxD1U/543545/191606
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| MUSIC .",|ALBA| TURBO TV HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191605
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| MUSIC .",|ALBA|  ASHKALI ISLAM.
+http://venomtt.com:8000/kdcxxD1U/543545/191604
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| MUSIC .",|ALBA| FOLK..
+http://venomtt.com:8000/kdcxxD1U/543545/191603
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| MUSIC .",|ALBA| ELRODI.
+http://venomtt.com:8000/kdcxxD1U/543545/191602
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| DOKUMENTARE.",##### |ALBA| DOKUMENTARE. #####
+http://venomtt.com:8000/kdcxxD1U/543545/191601
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| DOKUMENTARE.",|ALBA| EXPLORER SHKENCE.
+http://venomtt.com:8000/kdcxxD1U/543545/191600
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| DOKUMENTARE.",|ALBA| EXPLORER NATYRA.
+http://venomtt.com:8000/kdcxxD1U/543545/191599
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| DOKUMENTARE.",|ALBA| EXPLORER HISTORI.
+http://venomtt.com:8000/kdcxxD1U/543545/191598
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| DOKUMENTARE.",|ALBA| TRING HISTORY.
+http://venomtt.com:8000/kdcxxD1U/543545/191597
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| DOKUMENTARE.",|ALBA| TRING PLANET.
+http://venomtt.com:8000/kdcxxD1U/543545/191596
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| DOKUMENTARE.",|ALBA| TRING WORLD.
+http://venomtt.com:8000/kdcxxD1U/543545/191595
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| DOKUMENTARE.",|ALBA| SKY PLANET.
+http://venomtt.com:8000/kdcxxD1U/543545/191594
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| DOKUMENTARE.",|ALBA| SKY SHKENCE.
+http://venomtt.com:8000/kdcxxD1U/543545/191593
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| DOKUMENTARE.",|ALBA| DISCOVERY TURBO EXTRA.
+http://venomtt.com:8000/kdcxxD1U/543545/191592
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| DOKUMENTARE.",|ALBA| DISCOVERY SCIENCE.
+http://venomtt.com:8000/kdcxxD1U/543545/191591
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| DOKUMENTARE.",|ALBA| DISCOVERY CHANNEL.
+http://venomtt.com:8000/kdcxxD1U/543545/191590
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| DOKUMENTARE.",|ALBA| NATIONAL GEOGRAPHIC.
+http://venomtt.com:8000/kdcxxD1U/543545/191589
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| DOKUMENTARE.",|ALBA| 24 KITCHEN.
+http://venomtt.com:8000/kdcxxD1U/543545/191588
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| DOKUMENTARE.",|ALBA| X PREMIUM 2 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191587
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| DOKUMENTARE.",|ALBA| X PREMIUM 4 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191586
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| DOKUMENTARE.",|ALBA| X HUMOR HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191585
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",##### |ALBA| KUJTESA FILM .#####
+http://venomtt.com:8000/kdcxxD1U/543545/191584
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| FILMBOX PREMIUM.
+http://venomtt.com:8000/kdcxxD1U/543545/191583
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| FILMBOX ARTHOUSE.
+http://venomtt.com:8000/kdcxxD1U/543545/191582
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| FILMBOX EXTRA.
+http://venomtt.com:8000/kdcxxD1U/543545/191581
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| FILMBOX PLUS.
+http://venomtt.com:8000/kdcxxD1U/543545/191580
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| ART KINO 1 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191579
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| ART KINO 2 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191578
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| ART KINO 3 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191577
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| ART EPISODE HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191576
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| ART PRIME HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191575
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| FIRST ACTION HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191574
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| FIRST COMEDY HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191573
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| FIRST DRAME HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191572
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| FIRST FAMILY HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191571
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| FIRST THRILLER HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191570
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| Q premium 1 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191569
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| Q premium 2 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191568
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| Q premium 3 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191567
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| Q premium 4 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191566
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| Q premium 5 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191565
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| Q ACTION HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191564
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| Q KOMEDI HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191563
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| Q DRAMA HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191562
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| Q HUMOR HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191561
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| Q HINDI HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191560
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| Q HINDI 2 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191559
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| Q WESTERN HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191558
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| Q POPULLORE HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191557
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| Q STUPCAT HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191556
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| TV PLISI ACTION HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191555
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| TV PLISI COMEDY HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191554
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| TV PLISI FANTASY HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191553
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| TV PLISI HORROR HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191552
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| TV PLISI THRILLER HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191551
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| TV PLISI HUMOR HD
+http://venomtt.com:8000/kdcxxD1U/543545/191550
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| TRING ACTION.
+http://venomtt.com:8000/kdcxxD1U/543545/191549
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| TRING FANTASY.
+http://venomtt.com:8000/kdcxxD1U/543545/191548
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| TRING LIFE.
+http://venomtt.com:8000/kdcxxD1U/543545/191547
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| TRING COMEDY.
+http://venomtt.com:8000/kdcxxD1U/543545/191546
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| TRING SUPER.
+http://venomtt.com:8000/kdcxxD1U/543545/191545
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| TRING 3..
+http://venomtt.com:8000/kdcxxD1U/543545/191544
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| TRING SMILE.
+http://venomtt.com:8000/kdcxxD1U/543545/191543
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| TRING SHQIP.
+http://venomtt.com:8000/kdcxxD1U/543545/191542
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| TRING JOLLY.
+http://venomtt.com:8000/kdcxxD1U/543545/191541
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| LIVING HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191540
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| FOX CHANNEL.
+http://venomtt.com:8000/kdcxxD1U/543545/191539
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| FOX LIFE.
+http://venomtt.com:8000/kdcxxD1U/543545/191538
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| KANAL D DRAMA.
+http://venomtt.com:8000/kdcxxD1U/543545/191537
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| FILM NJE HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191536
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| FILM DY HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191535
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| FILM AKSION.
+http://venomtt.com:8000/kdcxxD1U/543545/191534
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| FILM HITS.
+http://venomtt.com:8000/kdcxxD1U/543545/191533
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| FILM AUTOR.
+http://venomtt.com:8000/kdcxxD1U/543545/191532
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| FILM DRAMA.
+http://venomtt.com:8000/kdcxxD1U/543545/191531
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| FILM KOMEDI.
+http://venomtt.com:8000/kdcxxD1U/543545/191530
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| FILM THRILLER.
+http://venomtt.com:8000/kdcxxD1U/543545/191529
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| FILM FAMILY HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191528
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| FILM STINET.
+http://venomtt.com:8000/kdcxxD1U/543545/191527
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| FILM T HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191526
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| TDC.
+http://venomtt.com:8000/kdcxxD1U/543545/191525
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| TDC 4K.
+http://venomtt.com:8000/kdcxxD1U/543545/191524
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| EURO FILM.
+http://venomtt.com:8000/kdcxxD1U/543545/191523
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| EURO FILM 1 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191522
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| EURO FILM 2 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191521
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| EURO FILM 4 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191520
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| EURO FILM 3 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191519
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| DIGI GOLD FAMILY HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191518
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| BUBRRECI TV HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191517
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| BANG BANG.
+http://venomtt.com:8000/kdcxxD1U/543545/191516
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| CUFO.
+http://venomtt.com:8000/kdcxxD1U/543545/191515
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| BABY TV.
+http://venomtt.com:8000/kdcxxD1U/543545/191514
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| JUNIOR.
+http://venomtt.com:8000/kdcxxD1U/543545/191513
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| TRING KIDS.
+http://venomtt.com:8000/kdcxxD1U/543545/191512
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| TRING TRING.
+http://venomtt.com:8000/kdcxxD1U/543545/191511
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| TIP TV.
+http://venomtt.com:8000/kdcxxD1U/543545/191510
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| SOFIA.
+http://venomtt.com:8000/kdcxxD1U/543545/191509
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| RTV21 JUNIOR.
+http://venomtt.com:8000/kdcxxD1U/543545/191508
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| RTSH FEMIJE.
+http://venomtt.com:8000/kdcxxD1U/543545/191507
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| PJ MASKS.
+http://venomtt.com:8000/kdcxxD1U/543545/191506
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| BOOMERANG.
+http://venomtt.com:8000/kdcxxD1U/543545/191505
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| ART PRINCE KIDS.
+http://venomtt.com:8000/kdcxxD1U/543545/191504
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| CARTOON NETWORK.
+http://venomtt.com:8000/kdcxxD1U/543545/191503
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| DRAGON BALL Z HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191502
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| BARBIE TV.
+http://venomtt.com:8000/kdcxxD1U/543545/191501
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| BABY BOX TV HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191500
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| DUCK TV.
+http://venomtt.com:8000/kdcxxD1U/543545/191499
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| JIM JAM .
+http://venomtt.com:8000/kdcxxD1U/543545/191498
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| KIDS BOX.
+http://venomtt.com:8000/kdcxxD1U/543545/191497
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| MR BEAN.
+http://venomtt.com:8000/kdcxxD1U/543545/191496
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| PERRALLA BOX.
+http://venomtt.com:8000/kdcxxD1U/543545/191495
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| KENGE PER FEMIJE.
+http://venomtt.com:8000/kdcxxD1U/543545/191494
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| NINULLA PER GJUME.
+http://venomtt.com:8000/kdcxxD1U/543545/191493
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| TOP NEWS.
+http://venomtt.com:8000/kdcxxD1U/543545/191492
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| ABC NEWS.
+http://venomtt.com:8000/kdcxxD1U/543545/191491
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| ORA NEWS HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191490
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| NEWS 24.
+http://venomtt.com:8000/kdcxxD1U/543545/191489
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| FAX NEWS.
+http://venomtt.com:8000/kdcxxD1U/543545/191488
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| REPORT TV.
+http://venomtt.com:8000/kdcxxD1U/543545/191487
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| KANALI 7.
+http://venomtt.com:8000/kdcxxD1U/543545/191486
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| ART CHANNEL HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191485
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| EURONEWS ALBAANIA.
+http://venomtt.com:8000/kdcxxD1U/543545/191484
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| KUJTESA FILM .",|ALBA| SCAN TV.
+http://venomtt.com:8000/kdcxxD1/543545/191483
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",##### |ALBA| GENERAL. #####
+http://venomtt.com:8000/kdcxxD1U/543545/191482
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| TOP CHANNEL. HD
+http://venomtt.com:8000/kdcxxD1U/543545/191481
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| TOP CHANNEL. 4K
+http://venomtt.com:8000/kdcxxD1U/543545/191480
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| KLAN TV. HD
+http://venomtt.com:8000/kdcxxD1U/543545/191479
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| KLAN. 4K
+http://venomtt.com:8000/kdcxxD1U/543545/191478
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| KLAN. PLUS 4K
+http://venomtt.com:8000/kdcxxD1U/543545/191477
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| KLAN. PLUS HD
+http://venomtt.com:8000/kdcxxD1U/543545/191476
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| VIZION. PLUS HD
+http://venomtt.com:8000/kdcxxD1U/543545/191475
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| VIZION. PLUS 4K
+http://venomtt.com:8000/kdcxxD1U/543545/191474
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| KLAN. KOSOVA HD
+http://venomtt.com:8000/kdcxxD1U/543545/191473
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| KLAN. MACEDONIA
+http://venomtt.com:8000/kdcxxD1U/543545/191472
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| ALSAT. M HD
+http://venomtt.com:8000/kdcxxD1U/543545/191471
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| ALSAT. M
+http://venomtt.com:8000/kdcxxD1U/543545/191470
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| ATV. HD
+http://venomtt.com:8000/kdcxxD1U/543545/191469
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| IN. TV
+http://venomtt.com:8000/kdcxxD1U/543545/191468
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| RTSH 1.
+http://venomtt.com:8000/kdcxxD1U/543545/191467
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| RTSH 1. HD
+http://venomtt.com:8000/kdcxxD1U/543545/191466
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| RTSH 2. HD
+http://venomtt.com:8000/kdcxxD1U/543545/191465
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| RTSH 3
+http://venomtt.com:8000/kdcxxD1U/543545/191464
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| RTSH MUZIKE.
+http://venomtt.com:8000/kdcxxD1U/543545/191463
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| RTSH SHQIP
+http://venomtt.com:8000/kdcxxD1U/543545/191462
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| RTSH GJIROKASTRA
+http://venomtt.com:8000/kdcxxD1U/543545/191461
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| RTSH 24 .HD
+http://venomtt.com:8000/kdcxxD1U/543545/191460
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| RTSH PLUS.
+http://venomtt.com:8000/kdcxxD1U/543545/191459
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| RTSH KUVEND.
+http://venomtt.com:8000/kdcxxD1U/543545/191458
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| RTSH SPORT. HD
+http://venomtt.com:8000/kdcxxD1U/543545/191457
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| RTK 1.
+http://venomtt.com:8000/kdcxxD1U/543545/191456
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| RTK 1 .HD
+http://venomtt.com:8000/kdcxxD1U/543545/191455
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| RTK 2.
+http://venomtt.com:8000/kdcxxD1U/543545/191454
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| RTK 3.
+http://venomtt.com:8000/kdcxxD1U/543545/191453
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| RTK 4.
+http://venomtt.com:8000/kdcxxD1U/543545/191452
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| RTV21.
+http://venomtt.com:8000/kdcxxD1U/543545/191451
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| RTV21 .HD
+http://venomtt.com:8000/kdcxxD1U/543545/191450
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| RTV21 MAQEDONIA.
+http://venomtt.com:8000/kdcxxD1U/543545/191449
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| KTV KOHAVISION.
+http://venomtt.com:8000/kdcxxD1U/543545/191448
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| TV DUKAGJINI. HD
+http://venomtt.com:8000/kdcxxD1U/543545/191447
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| T7.
+http://venomtt.com:8000/kdcxxD1U/543545/191446
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| TV ERA.
+http://venomtt.com:8000/kdcxxD1U/543545/191445
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| TV PRESHEVA.
+http://venomtt.com:8000/kdcxxD1U/543545/191444
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| MRT 2.
+http://venomtt.com:8000/kdcxxD1U/543545/191443
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| SHENJA TV.
+http://venomtt.com:8000/kdcxxD1U/543545/191442
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| FIRST TV.
+http://venomtt.com:8000/kdcxxD1U/543545/191441
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| RTV21 MIX
+http://venomtt.com:8000/kdcxxD1U/543545/191440
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| RTV21 PLUS.
+http://venomtt.com:8000/kdcxxD1U/543545/191439
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| TV KOHA HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191438
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| TV CHANNEL SHOKDER.
+http://venomtt.com:8000/kdcxxD1U/543545/191437
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| TV MITROVICA.
+http://venomtt.com:8000/kdcxxD1U/543545/191436
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| SYRI VISION.
+http://venomtt.com:8000/kdcxxD1U/543545/191435
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| TV LLAPI.
+http://venomtt.com:8000/kdcxxD1U/543545/191434
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| BESA TV.
+http://venomtt.com:8000/kdcxxD1U/543545/191433
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| TV GLOBI.
+http://venomtt.com:8000/kdcxxD1U/543545/191432
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| TV2 GOSTIVAR.
+http://venomtt.com:8000/kdcxxD1U/543545/191431
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| STAR PLUS SHKODER HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191430
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| TV KOPLIKU HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191429
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| RTV FONTANA HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191428
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| TV LIRIA.
+http://venomtt.com:8000/kdcxxD1U/543545/191427
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| TEMA TV.
+http://venomtt.com:8000/kdcxxD1U/543545/191426
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALBA| ALBA UK.
+http://venomtt.com:8000/kdcxxD1U/543545/191425
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALB| BIG BROTHER VIP 2 HD
+http://venomtt.com:8000/kdcxxD1U/543545/191424
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|ALB| BIG BROTHER  VIP 1 HD
+http://venomtt.com:8000/kdcxxD1U/543545/191423
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Big Brother VIP 1
+http://venomtt.com:8000/kdcxxD1U/543545/190541
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Big Brother VIP 2
+http://venomtt.com:8000/kdcxxD1U/543545/190540
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: RTK 1 ( uk/telecom )
+http://venomtt.com:8000/kdcxxD1U/543545/190539
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: RTK 1 SAT
+http://venomtt.com:8000/kdcxxD1U/543545/190538
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: RTK 1 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/190537
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: RTK 2
+http://venomtt.com:8000/kdcxxD1U/543545/190536
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: RTK 3
+http://venomtt.com:8000/kdcxxD1U/543545/190535
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: RTK 4
+http://venomtt.com:8000/kdcxxD1U/543545/190534
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: RTSH 1
+http://venomtt.com:8000/kdcxxD1U/543545/190533
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: RTSH 2
+http://venomtt.com:8000/kdcxxD1U/543545/190532
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: RTSH 24 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190531
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: RTSH 3
+http://venomtt.com:8000/kdcxxD1U/543545/190530
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: RTSH FILM
+http://venomtt.com:8000/kdcxxD1U/543545/190529
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: RTSH Femije
+http://venomtt.com:8000/kdcxxD1U/543545/190528
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: RTSH Korca
+http://venomtt.com:8000/kdcxxD1U/543545/190527
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: RTSH Kuvend
+http://venomtt.com:8000/kdcxxD1U/543545/190526
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: RTSH SAT
+http://venomtt.com:8000/kdcxxD1U/543545/190525
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: RTSH Shqip
+http://venomtt.com:8000/kdcxxD1U/543545/190524
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: RTSH plus
+http://venomtt.com:8000/kdcxxD1U/543545/190523
+#EXTINF:0 tvg-id="RTV21.al" group-title="|ALBA| GENERAL.",ALB: RTV 21 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190522
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: RTV 21 Plus HD
+http://venomtt.com:8000/kdcxxD1U/543545/190521
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: RTV 21 Maqedoni
+http://venomtt.com:8000/kdcxxD1U/543545/190520
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: RTV 21 Maqedonia
+http://venomtt.com:8000/kdcxxD1U/543545/190519
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: RTV 21 Plus
+http://venomtt.com:8000/kdcxxD1U/543545/190518
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: RTV 21 Popullore
+http://venomtt.com:8000/kdcxxD1U/543545/190517
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: RTV 21 Popullore HD
+http://venomtt.com:8000/kdcxxD1U/543545/190516
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: RTV 21 SD
+http://venomtt.com:8000/kdcxxD1U/543545/190515
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: ATV TV FHD
+http://venomtt.com:8000/kdcxxD1U/543545/190514
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: 24 Kitchen
+http://venomtt.com:8000/kdcxxD1U/543545/190513
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: A-Mol TV
+http://venomtt.com:8000/kdcxxD1U/543545/190512
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: A1 report
+http://venomtt.com:8000/kdcxxD1U/543545/190511
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: A2  CNN
+http://venomtt.com:8000/kdcxxD1U/543545/190510
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: ALB UK
+http://venomtt.com:8000/kdcxxD1U/543545/190509
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: ARTA news
+http://venomtt.com:8000/kdcxxD1U/543545/190508
+#EXTINF:0 tvg-id="ABCNews.al" group-title="|ALBA| GENERAL.",ALB: Abc News
+http://venomtt.com:8000/kdcxxD1U/543545/190507
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Alb swiss
+http://venomtt.com:8000/kdcxxD1U/543545/190506
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Alsat M 4K
+http://venomtt.com:8000/kdcxxD1U/543545/190505
+#EXTINF:0 tvg-id="AlsatM.al" group-title="|ALBA| GENERAL.",ALB: Alsat M HD
+http://venomtt.com:8000/kdcxxD1U/543545/190504
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Alsat M sd
+http://venomtt.com:8000/kdcxxD1U/543545/190503
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Animal Planet
+http://venomtt.com:8000/kdcxxD1U/543545/190502
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Art Doku 1 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190501
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Art Doku 2 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190500
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Art Kino 1 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190499
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Art Kino 2 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190498
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Art Kino 3 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190497
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Art Sport 1 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190496
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Art Sport 2 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190495
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Art Sport 3 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190494
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: BBF
+http://venomtt.com:8000/kdcxxD1U/543545/190493
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: BBF Music
+http://venomtt.com:8000/kdcxxD1U/543545/190492
+#EXTINF:0 tvg-id="BabyTV.al" group-title="|ALBA| GENERAL.",ALB: Baby Tv
+http://venomtt.com:8000/kdcxxD1U/543545/190491
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Baby bus
+http://venomtt.com:8000/kdcxxD1U/543545/190490
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Balkan Tv
+http://venomtt.com:8000/kdcxxD1U/543545/190489
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Ballkanika
+http://venomtt.com:8000/kdcxxD1U/543545/190488
+#EXTINF:0 tvg-id="BangBang.al" group-title="|ALBA| GENERAL.",ALB: Bang Bang
+http://venomtt.com:8000/kdcxxD1U/543545/190487
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Blue Sky TV HD
+http://venomtt.com:8000/kdcxxD1U/543545/190486
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: ATV SD ( boin)
+http://venomtt.com:8000/kdcxxD1U/543545/190485
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Boomerang
+http://venomtt.com:8000/kdcxxD1U/543545/190484
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Cartoon Network
+http://venomtt.com:8000/kdcxxD1U/543545/190483
+#EXTINF:0 tvg-id="KTV.al" group-title="|ALBA| GENERAL.",ALB: KTV  FHD
+http://venomtt.com:8000/kdcxxD1U/543545/190482
+#EXTINF:0 tvg-id="CufoTV.al" group-title="|ALBA| GENERAL.",ALB: Cufo
+http://venomtt.com:8000/kdcxxD1U/543545/190481
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: DIASPORA TV
+http://venomtt.com:8000/kdcxxD1U/543545/190480
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Dasma
+http://venomtt.com:8000/kdcxxD1U/543545/190479
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Discovery Channel
+http://venomtt.com:8000/kdcxxD1U/543545/190478
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Drita TV
+http://venomtt.com:8000/kdcxxD1U/543545/190477
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: ERA
+http://venomtt.com:8000/kdcxxD1U/543545/190476
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: EXPLORER HISTORI
+http://venomtt.com:8000/kdcxxD1U/543545/190475
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Elrodi
+http://venomtt.com:8000/kdcxxD1U/543545/190474
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Euro Film
+http://venomtt.com:8000/kdcxxD1U/543545/190473
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Euro Film 1 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190472
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Euro Film 2 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190471
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Euro Film 3 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190470
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Euro Film 4 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190469
+#EXTINF:0 tvg-id="EXPNatyra.al" group-title="|ALBA| GENERAL.",ALB: Explorer Natyre
+http://venomtt.com:8000/kdcxxD1U/543545/190468
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Explorer Shkenca
+http://venomtt.com:8000/kdcxxD1U/543545/190467
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: FILM AKTION
+http://venomtt.com:8000/kdcxxD1U/543545/190466
+#EXTINF:0 tvg-id="FoxLife.al" group-title="|ALBA| GENERAL.",ALB: FOX LIFE
+http://venomtt.com:8000/kdcxxD1U/543545/190465
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: FOX TV HD
+http://venomtt.com:8000/kdcxxD1U/543545/190464
+#EXTINF:0 tvg-id="FilmAksion.al" group-title="|ALBA| GENERAL.",ALB: Film Aksion
+http://venomtt.com:8000/kdcxxD1U/543545/190463
+#EXTINF:0 tvg-id="FilmAutor.al" group-title="|ALBA| GENERAL.",ALB: Film Autor
+http://venomtt.com:8000/kdcxxD1U/543545/190462
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Film Komedi +1  HD
+http://venomtt.com:8000/kdcxxD1U/543545/190461
+#EXTINF:0 tvg-id="FilmDrame.al" group-title="|ALBA| GENERAL.",ALB: Film Drame
+http://venomtt.com:8000/kdcxxD1U/543545/190460
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Film Dy HD
+http://venomtt.com:8000/kdcxxD1U/543545/190459
+#EXTINF:0 tvg-id="FilmHits.al" group-title="|ALBA| GENERAL.",ALB: Film Hits
+http://venomtt.com:8000/kdcxxD1U/543545/190458
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Film Hits HD
+http://venomtt.com:8000/kdcxxD1U/543545/190457
+#EXTINF:0 tvg-id="FilmKomedi.al" group-title="|ALBA| GENERAL.",ALB: Film Komedi
+http://venomtt.com:8000/kdcxxD1U/543545/190456
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Film Nje HD
+http://venomtt.com:8000/kdcxxD1U/543545/190455
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Film Stinet
+http://venomtt.com:8000/kdcxxD1U/543545/190454
+#EXTINF:0 tvg-id="FilmThriller.al" group-title="|ALBA| GENERAL.",ALB: Film Thriller
+http://venomtt.com:8000/kdcxxD1U/543545/190453
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: First 1
+http://venomtt.com:8000/kdcxxD1U/543545/190452
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: First Kosova
+http://venomtt.com:8000/kdcxxD1U/543545/190451
+#EXTINF:0 tvg-id="FolkPlus.al" group-title="|ALBA| GENERAL.",ALB: Folk
+http://venomtt.com:8000/kdcxxD1U/543545/190450
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Folk+
+http://venomtt.com:8000/kdcxxD1U/543545/190449
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Fontana
+http://venomtt.com:8000/kdcxxD1U/543545/190448
+#EXTINF:0 tvg-id="FoxCrime.al" group-title="|ALBA| GENERAL.",ALB: Fox Crime
+http://venomtt.com:8000/kdcxxD1U/543545/190447
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: GlobiTV
+http://venomtt.com:8000/kdcxxD1U/543545/190446
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Hits HD
+http://venomtt.com:8000/kdcxxD1U/543545/190445
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: IN TV
+http://venomtt.com:8000/kdcxxD1U/543545/190444
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: JIM JAM
+http://venomtt.com:8000/kdcxxD1U/543545/190443
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Jolly sd
+http://venomtt.com:8000/kdcxxD1U/543545/190442
+#EXTINF:0 tvg-id="JollyHD.al" group-title="|ALBA| GENERAL.",ALB: Jolly HD
+http://venomtt.com:8000/kdcxxD1U/543545/190441
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Junior
+http://venomtt.com:8000/kdcxxD1U/543545/190440
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: K Sport 1
+http://venomtt.com:8000/kdcxxD1U/543545/190439
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: K Sport 2
+http://venomtt.com:8000/kdcxxD1U/543545/190438
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: K Sport 3
+http://venomtt.com:8000/kdcxxD1U/543545/190437
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: K Sport 4
+http://venomtt.com:8000/kdcxxD1U/543545/190436
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: PÃ«rralla Box
+http://venomtt.com:8000/kdcxxD1U/543545/190435
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: PJ Maks
+http://venomtt.com:8000/kdcxxD1U/543545/190434
+#EXTINF:0 tvg-id="KTV.al" group-title="|ALBA| GENERAL.",ALB: KTV HD
+http://venomtt.com:8000/kdcxxD1U/543545/190433
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: KTV sd
+http://venomtt.com:8000/kdcxxD1U/543545/190432
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: ART Kino Premium 3 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190431
+#EXTINF:0 tvg-id="KlanTVHD.al" group-title="|ALBA| GENERAL.",ALB: Klan HD
+http://venomtt.com:8000/kdcxxD1U/543545/190430
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="|ALBA| GENERAL.",ALB: Klan Kosova HD
+http://venomtt.com:8000/kdcxxD1U/543545/190429
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Klan Kosova SD ( uk/telecom )
+http://venomtt.com:8000/kdcxxD1U/543545/190428
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Klan Macedonia
+http://venomtt.com:8000/kdcxxD1U/543545/190427
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Klan Plus HD
+http://venomtt.com:8000/kdcxxD1U/543545/190426
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Klan Plus sd
+http://venomtt.com:8000/kdcxxD1U/543545/190425
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Klan sd
+http://venomtt.com:8000/kdcxxD1U/543545/190424
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Stupcat HD 24/7
+http://venomtt.com:8000/kdcxxD1U/543545/190423
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Living
+http://venomtt.com:8000/kdcxxD1U/543545/190422
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: MTV Kosova
+http://venomtt.com:8000/kdcxxD1U/543545/190421
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Medina Live
+http://venomtt.com:8000/kdcxxD1U/543545/190420
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Mekka Live
+http://venomtt.com:8000/kdcxxD1U/543545/190419
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Music Al
+http://venomtt.com:8000/kdcxxD1U/543545/190418
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: My Music
+http://venomtt.com:8000/kdcxxD1U/543545/190417
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: National Geographic Channel
+http://venomtt.com:8000/kdcxxD1U/543545/190416
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: News 24
+http://venomtt.com:8000/kdcxxD1U/543545/190415
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Ninulla per gjume
+http://venomtt.com:8000/kdcxxD1U/543545/190414
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: OPOJA
+http://venomtt.com:8000/kdcxxD1U/543545/190413
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: On Tv
+http://venomtt.com:8000/kdcxxD1U/543545/190412
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Ora News
+http://venomtt.com:8000/kdcxxD1U/543545/190411
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: PENDIMI HD
+http://venomtt.com:8000/kdcxxD1U/543545/190410
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: POPULLORE 21 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190409
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Peace Tv
+http://venomtt.com:8000/kdcxxD1U/543545/190408
+#EXTINF:0 tvg-id="PlusHD.al" group-title="|ALBA| GENERAL.",ALB: Plus HD
+http://venomtt.com:8000/kdcxxD1U/543545/190407
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: ROMA TV
+http://venomtt.com:8000/kdcxxD1U/543545/190406
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Kanali 10 ( ish RRokumi)
+http://venomtt.com:8000/kdcxxD1U/543545/190405
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: RTV Islam
+http://venomtt.com:8000/kdcxxD1U/543545/190404
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: RTV Pendimi
+http://venomtt.com:8000/kdcxxD1U/543545/190403
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: RTV21 Junior
+http://venomtt.com:8000/kdcxxD1U/543545/190402
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Rtsh Muzike
+http://venomtt.com:8000/kdcxxD1U/543545/190401
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Rtsh Sport
+http://venomtt.com:8000/kdcxxD1U/543545/190400
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: SHARRI
+http://venomtt.com:8000/kdcxxD1U/543545/190399
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: STV Folk
+http://venomtt.com:8000/kdcxxD1U/543545/190398
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Eurosport 1 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190397
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Eurosport 2 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190396
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: ShqipTV Western HD
+http://venomtt.com:8000/kdcxxD1U/543545/190395
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Sky 7 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190394
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Sky Aksion
+http://venomtt.com:8000/kdcxxD1U/543545/190393
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Sky Comedy
+http://venomtt.com:8000/kdcxxD1U/543545/190392
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Sky Drama
+http://venomtt.com:8000/kdcxxD1U/543545/190391
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Sky Max
+http://venomtt.com:8000/kdcxxD1U/543545/190390
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Sky Novela
+http://venomtt.com:8000/kdcxxD1U/543545/190389
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Sky Shkenc
+http://venomtt.com:8000/kdcxxD1U/543545/190388
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Smile
+http://venomtt.com:8000/kdcxxD1U/543545/190387
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Sofia
+http://venomtt.com:8000/kdcxxD1U/543545/190386
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Star Plus Shkoder HD
+http://venomtt.com:8000/kdcxxD1U/543545/190385
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Stinet
+http://venomtt.com:8000/kdcxxD1U/543545/190384
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Super Folk
+http://venomtt.com:8000/kdcxxD1U/543545/190383
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Super Sport 1 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190382
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Super Sport 1 News
+http://venomtt.com:8000/kdcxxD1U/543545/190381
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Super Sport 2 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190380
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Super Sport 3 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190379
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Super Sport 3 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/190378
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Super Sport 4
+http://venomtt.com:8000/kdcxxD1U/543545/190377
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Super Sport 4 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190376
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Super Sport 5 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190375
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Super Sport 6 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190374
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Super Sport 7 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190373
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Super Sport Kosova 1
+http://venomtt.com:8000/kdcxxD1U/543545/190372
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Super Sport Kosova 1 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190371
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Super Sport Kosova 2
+http://venomtt.com:8000/kdcxxD1U/543545/190370
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Super Sport Kosova 2 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190369
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Super sport 1
+http://venomtt.com:8000/kdcxxD1U/543545/190368
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Supersonic Tv
+http://venomtt.com:8000/kdcxxD1U/543545/190367
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Syri Blue
+http://venomtt.com:8000/kdcxxD1U/543545/190366
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Syri Vision
+http://venomtt.com:8000/kdcxxD1U/543545/190365
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: T HD
+http://venomtt.com:8000/kdcxxD1U/543545/190364
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: T7 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/190363
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: T7 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190362
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: TELE one 3 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190361
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: TELE one 4 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190360
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: TELE one 5 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190359
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: TELE one 6 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190358
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: TIP TV HD
+http://venomtt.com:8000/kdcxxD1U/543545/190357
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: TLC
+http://venomtt.com:8000/kdcxxD1U/543545/190356
+#EXTINF:0 tvg-id="TopChannel.al" group-title="|ALBA| GENERAL.",ALB: TOP CHANNEL sd
+http://venomtt.com:8000/kdcxxD1U/543545/190355
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: TRAVEL
+http://venomtt.com:8000/kdcxxD1U/543545/190354
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: TRING MUSE
+http://venomtt.com:8000/kdcxxD1U/543545/190353
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: TRING SPORT NEWS HD
+http://venomtt.com:8000/kdcxxD1U/543545/190352
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: TV Besa
+http://venomtt.com:8000/kdcxxD1U/543545/190351
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: TV Dielli
+http://venomtt.com:8000/kdcxxD1U/543545/190350
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: TV Dukagjini FHD
+http://venomtt.com:8000/kdcxxD1U/543545/190349
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: TV Dukagjini HD
+http://venomtt.com:8000/kdcxxD1U/543545/190348
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: TV Era
+http://venomtt.com:8000/kdcxxD1U/543545/190347
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: TV Kopliku
+http://venomtt.com:8000/kdcxxD1U/543545/190346
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: TV MItrovica
+http://venomtt.com:8000/kdcxxD1U/543545/190345
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: TV OPINION
+http://venomtt.com:8000/kdcxxD1U/543545/190344
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: TV Plisi Action HD
+http://venomtt.com:8000/kdcxxD1U/543545/190343
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: TV Plisi Comedy HD
+http://venomtt.com:8000/kdcxxD1U/543545/190342
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: TV Plisi Fantasy HD
+http://venomtt.com:8000/kdcxxD1U/543545/190341
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: TV Plisi HD
+http://venomtt.com:8000/kdcxxD1U/543545/190340
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: TV Plisi Horror HD
+http://venomtt.com:8000/kdcxxD1U/543545/190339
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: TV Plisi Humor HD
+http://venomtt.com:8000/kdcxxD1U/543545/190338
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: TV Plisi Qifteli HD
+http://venomtt.com:8000/kdcxxD1U/543545/190337
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: TV Plisi Thriller HD
+http://venomtt.com:8000/kdcxxD1U/543545/190336
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: TV SHARI
+http://venomtt.com:8000/kdcxxD1U/543545/190335
+#EXTINF:0 tvg-id="TipTv.al" group-title="|ALBA| GENERAL.",ALB:  Tip TV sd
+http://venomtt.com:8000/kdcxxD1U/543545/190334
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Tirana TV
+http://venomtt.com:8000/kdcxxD1U/543545/190333
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Tom and Jerry HD
+http://venomtt.com:8000/kdcxxD1U/543545/190332
+#EXTINF:0 tvg-id="TopChannelHD.al" group-title="|ALBA| GENERAL.",ALB: Top Channel HD
+http://venomtt.com:8000/kdcxxD1U/543545/190331
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Top News
+http://venomtt.com:8000/kdcxxD1U/543545/190330
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Tring 3 rezerv
+http://venomtt.com:8000/kdcxxD1U/543545/190329
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Tring Aksion
+http://venomtt.com:8000/kdcxxD1U/543545/190328
+#EXTINF:0 tvg-id="TringComedy.al" group-title="|ALBA| GENERAL.",ALB: Tring Comedy
+http://venomtt.com:8000/kdcxxD1U/543545/190327
+#EXTINF:0 tvg-id="TringComedy.al" group-title="|ALBA| GENERAL.",ALB: Tring Comedy sd
+http://venomtt.com:8000/kdcxxD1U/543545/190326
+#EXTINF:0 tvg-id="TringFantazi.al" group-title="|ALBA| GENERAL.",ALB: Tring Fantasy
+http://venomtt.com:8000/kdcxxD1U/543545/190325
+#EXTINF:0 tvg-id="TringFantazi.al" group-title="|ALBA| GENERAL.",ALB: Tring Fantasy sd
+http://venomtt.com:8000/kdcxxD1U/543545/190324
+#EXTINF:0 tvg-id="T-Hist.al" group-title="|ALBA| GENERAL.",ALB: Tring History
+http://venomtt.com:8000/kdcxxD1U/543545/190323
+#EXTINF:0 tvg-id="T-Hist.al" group-title="|ALBA| GENERAL.",ALB: Tring History sd
+http://venomtt.com:8000/kdcxxD1U/543545/190322
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Tring Kids
+http://venomtt.com:8000/kdcxxD1U/543545/190321
+#EXTINF:0 tvg-id="TringLife.al" group-title="|ALBA| GENERAL.",ALB: Tring Life
+http://venomtt.com:8000/kdcxxD1U/543545/190320
+#EXTINF:0 tvg-id="TringLife.al" group-title="|ALBA| GENERAL.",ALB: Tring Life SD
+http://venomtt.com:8000/kdcxxD1U/543545/190319
+#EXTINF:0 tvg-id="TringPlanet.al" group-title="|ALBA| GENERAL.",ALB:  Tring Planet
+http://venomtt.com:8000/kdcxxD1U/543545/190318
+#EXTINF:0 tvg-id="TringPlanet.al" group-title="|ALBA| GENERAL.",ALB: Tring Planet sd
+http://venomtt.com:8000/kdcxxD1U/543545/190317
+#EXTINF:0 tvg-id="TRINGSHQIPI.al" group-title="|ALBA| GENERAL.",ALB: Tring Shqip
+http://venomtt.com:8000/kdcxxD1U/543545/190316
+#EXTINF:0 tvg-id="TRINGSHQIPI.al" group-title="|ALBA| GENERAL.",ALB: Tring Shqip sd
+http://venomtt.com:8000/kdcxxD1U/543545/190315
+#EXTINF:0 tvg-id="Smile.al" group-title="|ALBA| GENERAL.",ALB: Tring Smile
+http://venomtt.com:8000/kdcxxD1U/543545/190314
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Tring Sport 1 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190313
+#EXTINF:0 tvg-id="TS1HD.al" group-title="|ALBA| GENERAL.",ALB: Tring Sport 1 sd
+http://venomtt.com:8000/kdcxxD1U/543545/190312
+#EXTINF:0 tvg-id="TS2HD.al" group-title="|ALBA| GENERAL.",ALB: Tring Sport 2
+http://venomtt.com:8000/kdcxxD1U/543545/190311
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Tring Sport 2 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190310
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Tring Sport 3
+http://venomtt.com:8000/kdcxxD1U/543545/190309
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Tring Sport 3 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190308
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Tring Sport 4
+http://venomtt.com:8000/kdcxxD1U/543545/190307
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Tring Sport 4 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190306
+#EXTINF:0 tvg-id="SuperSportNews.al" group-title="|ALBA| GENERAL.",ALB: Tring Sport News
+http://venomtt.com:8000/kdcxxD1U/543545/190305
+#EXTINF:0 tvg-id="TringSuper.al" group-title="|ALBA| GENERAL.",ALB: Tring Super
+http://venomtt.com:8000/kdcxxD1U/543545/190304
+#EXTINF:0 tvg-id="TringSuper.al" group-title="|ALBA| GENERAL.",ALB: Tring Super sd
+http://venomtt.com:8000/kdcxxD1U/543545/190303
+#EXTINF:0 tvg-id="TringTring.al" group-title="|ALBA| GENERAL.",ALB:   Tring Tring
+http://venomtt.com:8000/kdcxxD1U/543545/190302
+#EXTINF:0 tvg-id="TringTring.al" group-title="|ALBA| GENERAL.",ALB: Tring Tring sd
+http://venomtt.com:8000/kdcxxD1U/543545/190301
+#EXTINF:0 tvg-id="TringWorld.al" group-title="|ALBA| GENERAL.",ALB: Tring World
+http://venomtt.com:8000/kdcxxD1U/543545/190300
+#EXTINF:0 tvg-id="TringWorld.al" group-title="|ALBA| GENERAL.",ALB:   Tring World sd
+http://venomtt.com:8000/kdcxxD1U/543545/190299
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Tv Koha
+http://venomtt.com:8000/kdcxxD1U/543545/190298
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Tv tetova
+http://venomtt.com:8000/kdcxxD1U/543545/190297
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Vizion Plus
+http://venomtt.com:8000/kdcxxD1U/543545/190296
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: X Action HD
+http://venomtt.com:8000/kdcxxD1U/543545/190295
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: X Comedy HD
+http://venomtt.com:8000/kdcxxD1U/543545/190294
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: X Gold 1
+http://venomtt.com:8000/kdcxxD1U/543545/190293
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: X Gold 2
+http://venomtt.com:8000/kdcxxD1U/543545/190292
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: FAX NEWS
+http://venomtt.com:8000/kdcxxD1U/543545/190291
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: X Histori HD
+http://venomtt.com:8000/kdcxxD1U/543545/190290
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: X Humor HD
+http://venomtt.com:8000/kdcxxD1U/543545/190289
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: X Kids
+http://venomtt.com:8000/kdcxxD1U/543545/190288
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: X Premium 1 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190287
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: X Premium 2 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190286
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: X Premium 3 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190285
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: X Romance HD
+http://venomtt.com:8000/kdcxxD1U/543545/190284
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: X Western HD
+http://venomtt.com:8000/kdcxxD1U/543545/190283
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Zico Tv
+http://venomtt.com:8000/kdcxxD1U/543545/190282
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Zjarr Tv
+http://venomtt.com:8000/kdcxxD1U/543545/190281
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: kanali 7
+http://venomtt.com:8000/kdcxxD1U/543545/190280
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="|ALBA| GENERAL.",ALB: klan Kosova  FHD
+http://venomtt.com:8000/kdcxxD1U/543545/190279
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: rtv 21 MIX
+http://venomtt.com:8000/kdcxxD1U/543545/190278
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: super sport 2
+http://venomtt.com:8000/kdcxxD1U/543545/190277
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",ALB: Tring 3 sd
+http://venomtt.com:8000/kdcxxD1U/543545/190276
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| ALSAT M
+http://venomtt.com:8000/kdcxxD1U/543545/190275
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Zjarr TV
+http://venomtt.com:8000/kdcxxD1U/543545/190274
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Vizion Plus HD
+http://venomtt.com:8000/kdcxxD1U/543545/190273
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Tring Tring
+http://venomtt.com:8000/kdcxxD1U/543545/190272
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Tring Super
+http://venomtt.com:8000/kdcxxD1U/543545/190271
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Tring Life
+http://venomtt.com:8000/kdcxxD1U/543545/190270
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Tring Jolly HD
+http://venomtt.com:8000/kdcxxD1U/543545/190269
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Tring Planet
+http://venomtt.com:8000/kdcxxD1U/543545/190268
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Tring Action HD
+http://venomtt.com:8000/kdcxxD1U/543545/190267
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Tring Shqip
+http://venomtt.com:8000/kdcxxD1U/543545/190266
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Tring Histori
+http://venomtt.com:8000/kdcxxD1U/543545/190265
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Tring Fantasy
+http://venomtt.com:8000/kdcxxD1U/543545/190264
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Tring Comedy
+http://venomtt.com:8000/kdcxxD1U/543545/190263
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Tring 3+
+http://venomtt.com:8000/kdcxxD1U/543545/190262
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Top News
+http://venomtt.com:8000/kdcxxD1U/543545/190261
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| RTV 21 Popullore
+http://venomtt.com:8000/kdcxxD1U/543545/190260
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| RTV 21 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190259
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| RTV 21 Maqedonia
+http://venomtt.com:8000/kdcxxD1U/543545/190258
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| RTV 21 Junior
+http://venomtt.com:8000/kdcxxD1U/543545/190257
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| RTV 21 Toksor
+http://venomtt.com:8000/kdcxxD1U/543545/190256
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| RTK 4
+http://venomtt.com:8000/kdcxxD1U/543545/190255
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| RTK 3
+http://venomtt.com:8000/kdcxxD1U/543545/190254
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| RTK 2
+http://venomtt.com:8000/kdcxxD1U/543545/190253
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| RTK 1
+http://venomtt.com:8000/kdcxxD1U/543545/190252
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Peace TV
+http://venomtt.com:8000/kdcxxD1U/543545/190251
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| MKTV 2
+http://venomtt.com:8000/kdcxxD1U/543545/190250
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| KTV HD
+http://venomtt.com:8000/kdcxxD1U/543545/190249
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| KLAN HD
+http://venomtt.com:8000/kdcxxD1U/543545/190248
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Kino Premiere 2 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190247
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Kino Premiere 1 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190246
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Kino Premiere 3 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190245
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Film Thriller
+http://venomtt.com:8000/kdcxxD1U/543545/190244
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Film Hits
+http://venomtt.com:8000/kdcxxD1U/543545/190243
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Film Dy HD
+http://venomtt.com:8000/kdcxxD1U/543545/190242
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Film Drame
+http://venomtt.com:8000/kdcxxD1U/543545/190241
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Film Aksion
+http://venomtt.com:8000/kdcxxD1U/543545/190240
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Club TV
+http://venomtt.com:8000/kdcxxD1U/543545/190239
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| BBF Music
+http://venomtt.com:8000/kdcxxD1U/543545/190238
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Alb Humor
+http://venomtt.com:8000/kdcxxD1U/543545/190237
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| ALB HITS
+http://venomtt.com:8000/kdcxxD1U/543545/190236
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| A1 Shqiptare
+http://venomtt.com:8000/kdcxxD1U/543545/190235
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| A1 ISLAM
+http://venomtt.com:8000/kdcxxD1U/543545/190234
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| ABC News
+http://venomtt.com:8000/kdcxxD1U/543545/190233
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Baby TV
+http://venomtt.com:8000/kdcxxD1U/543545/190232
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Cufo
+http://venomtt.com:8000/kdcxxD1U/543545/190231
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Dasma TV
+http://venomtt.com:8000/kdcxxD1U/543545/190230
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Digi Gold 1
+http://venomtt.com:8000/kdcxxD1U/543545/190229
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Digi Gold 2
+http://venomtt.com:8000/kdcxxD1U/543545/190228
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Digi Gold 3
+http://venomtt.com:8000/kdcxxD1U/543545/190227
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Elrodi TV
+http://venomtt.com:8000/kdcxxD1U/543545/190226
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Explorer Histori
+http://venomtt.com:8000/kdcxxD1U/543545/190225
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Explorer Natyra
+http://venomtt.com:8000/kdcxxD1U/543545/190224
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Explorer Shkenc
+http://venomtt.com:8000/kdcxxD1U/543545/190223
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Film Autor
+http://venomtt.com:8000/kdcxxD1U/543545/190222
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Film Gold 2
+http://venomtt.com:8000/kdcxxD1U/543545/190221
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Film Gold 3
+http://venomtt.com:8000/kdcxxD1U/543545/190220
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Film Gold 4
+http://venomtt.com:8000/kdcxxD1U/543545/190219
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Film Gold 1
+http://venomtt.com:8000/kdcxxD1U/543545/190218
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Film Komedi
+http://venomtt.com:8000/kdcxxD1U/543545/190217
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Film Nje HD
+http://venomtt.com:8000/kdcxxD1U/543545/190216
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Film Stinet
+http://venomtt.com:8000/kdcxxD1U/543545/190215
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| First TV
+http://venomtt.com:8000/kdcxxD1U/543545/190214
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Folk
+http://venomtt.com:8000/kdcxxD1U/543545/190213
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Folklorit
+http://venomtt.com:8000/kdcxxD1U/543545/190212
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Jolly HD
+http://venomtt.com:8000/kdcxxD1U/543545/190211
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Junior TV
+http://venomtt.com:8000/kdcxxD1U/543545/190210
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Kino Action
+http://venomtt.com:8000/kdcxxD1U/543545/190209
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Kino Scifi HD
+http://venomtt.com:8000/kdcxxD1U/543545/190208
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Kino Thriller HD
+http://venomtt.com:8000/kdcxxD1U/543545/190207
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| KLAN Kosova HD
+http://venomtt.com:8000/kdcxxD1U/543545/190206
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| KLAN Plus
+http://venomtt.com:8000/kdcxxD1U/543545/190205
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| KTV Toksor
+http://venomtt.com:8000/kdcxxD1U/543545/190204
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Kujtesa Sport 1
+http://venomtt.com:8000/kdcxxD1U/543545/190203
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Kujtesa Sport 2
+http://venomtt.com:8000/kdcxxD1U/543545/190202
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Living HD
+http://venomtt.com:8000/kdcxxD1U/543545/190201
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Muse
+http://venomtt.com:8000/kdcxxD1U/543545/190200
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| News 24
+http://venomtt.com:8000/kdcxxD1U/543545/190199
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| ORA News
+http://venomtt.com:8000/kdcxxD1U/543545/190198
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| TV Plus HD
+http://venomtt.com:8000/kdcxxD1U/543545/190197
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Report TV
+http://venomtt.com:8000/kdcxxD1U/543545/190196
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Rrokum TV
+http://venomtt.com:8000/kdcxxD1U/543545/190195
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| RTSH 1
+http://venomtt.com:8000/kdcxxD1U/543545/190194
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| RTSH Sport HD
+http://venomtt.com:8000/kdcxxD1U/543545/190193
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| RTV 21 Plus
+http://venomtt.com:8000/kdcxxD1U/543545/190192
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| RTV Islam
+http://venomtt.com:8000/kdcxxD1U/543545/190191
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| TV Sharri
+http://venomtt.com:8000/kdcxxD1U/543545/190190
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| ShqipTV Aksion HD
+http://venomtt.com:8000/kdcxxD1U/543545/190189
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| ShqipTV Film HD
+http://venomtt.com:8000/kdcxxD1U/543545/190188
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Sky komedi
+http://venomtt.com:8000/kdcxxD1U/543545/190187
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Art Sport 1 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190186
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Art Sport 2 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190185
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| STV Folk
+http://venomtt.com:8000/kdcxxD1U/543545/190184
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Super Sport 1
+http://venomtt.com:8000/kdcxxD1U/543545/190183
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Super Sport 2
+http://venomtt.com:8000/kdcxxD1U/543545/190182
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Super Sport 3
+http://venomtt.com:8000/kdcxxD1U/543545/190181
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Super Sport 4
+http://venomtt.com:8000/kdcxxD1U/543545/190180
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Supersonic TV
+http://venomtt.com:8000/kdcxxD1U/543545/190179
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Tetova HD TV
+http://venomtt.com:8000/kdcxxD1U/543545/190178
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Tirana TV
+http://venomtt.com:8000/kdcxxD1U/543545/190177
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| TOP Channel HD
+http://venomtt.com:8000/kdcxxD1U/543545/190176
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Tring Smile
+http://venomtt.com:8000/kdcxxD1U/543545/190175
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Tring World
+http://venomtt.com:8000/kdcxxD1U/543545/190174
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| TV Arta
+http://venomtt.com:8000/kdcxxD1U/543545/190173
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| TV Dukagjini
+http://venomtt.com:8000/kdcxxD1U/543545/190172
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| TV Mitrovica
+http://venomtt.com:8000/kdcxxD1U/543545/190171
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| TV Opoja
+http://venomtt.com:8000/kdcxxD1U/543545/190170
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| TVSH
+http://venomtt.com:8000/kdcxxD1U/543545/190169
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Vision Plus Toksor
+http://venomtt.com:8000/kdcxxD1U/543545/190168
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| ZICO TV
+http://venomtt.com:8000/kdcxxD1U/543545/190167
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| T7
+http://venomtt.com:8000/kdcxxD1U/543545/190166
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Tring Sport News
+http://venomtt.com:8000/kdcxxD1U/543545/190165
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Tring Sport 4 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190164
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Tring Sport 3 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190163
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Tring Sport 2 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190162
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Tring Sport 1 HD
+http://venomtt.com:8000/kdcxxD1U/543545/190161
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| K Sport 4
+http://venomtt.com:8000/kdcxxD1U/543545/190160
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| K Sport 3
+http://venomtt.com:8000/kdcxxD1U/543545/190159
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| K Sport 2
+http://venomtt.com:8000/kdcxxD1U/543545/190158
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| K Sport 1
+http://venomtt.com:8000/kdcxxD1U/543545/190157
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| Digi Gold 4
+http://venomtt.com:8000/kdcxxD1U/543545/190156
+#EXTINF:0 tvg-id="ext" group-title="|ALBA| GENERAL.",|AL| FAX NEWS
+http://venomtt.com:8000/kdcxxD1U/543545/190155
